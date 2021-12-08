@@ -1,0 +1,50 @@
+2021-11-23 10:31:49,662 DEBUG [main] Runner:48 - driver is intialized.
+2021-11-23 10:32:01,977 DEBUG [main] Runner:12 - Browser is Navigated to the Given Url
+2021-11-23 10:32:02,487 DEBUG [main] Runner:65 - Test 1 completed.
+2021-11-23 10:32:09,475 DEBUG [main] Runner:48 - driver is intialized.
+2021-11-23 10:32:17,258 DEBUG [main] Runner:12 - Title is Verified.
+2021-11-23 10:32:17,935 DEBUG [main] Runner:12 - Logo is visible.
+2021-11-23 10:32:21,512 DEBUG [main] Runner:12 - SearchBox is displayed.
+2021-11-23 10:32:24,924 DEBUG [main] Runner:12 - Test completed.
+2021-11-23 10:32:25,391 DEBUG [main] Runner:79 - Test 2 completed.
+2021-11-23 10:32:31,912 DEBUG [main] Runner:48 - driver is intialized.
+2021-11-23 10:32:42,573 DEBUG [main] Runner:12 - Navigated to Sign in page
+2021-11-23 10:32:42,798 DEBUG [main] Runner:135 - Test 3 completed.
+2021-11-23 10:32:45,431 DEBUG [main] Runner:48 - driver is intialized.
+2021-11-23 10:32:56,963 DEBUG [main] Runner:146 - Product name entered.
+2021-11-23 10:33:06,777 DEBUG [main] Runner:25 - clicked On product
+2021-11-23 10:33:10,944 DEBUG [main] Runner:30 - selecting the quantity
+2021-11-23 10:33:12,092 DEBUG [main] Runner:33 - clicked on Add to cart
+2021-11-23 10:33:14,102 DEBUG [main] Runner:12 - Product is added to cart
+2021-11-23 10:33:14,466 DEBUG [main] Runner:152 - Test 4 completed.
+2021-11-23 10:33:20,964 DEBUG [main] Runner:48 - driver is intialized.
+2021-11-23 10:33:31,089 DEBUG [main] Runner:61 - clicked on the wishlist
+2021-11-23 10:33:34,620 DEBUG [main] Runner:20 - Couldn't Navigate to wish list page
+2021-11-23 10:33:41,219 DEBUG [main] Runner:48 - driver is intialized.
+2021-11-23 10:33:48,617 DEBUG [main] Runner:88 - Base Url opened
+2021-11-23 10:33:57,106 DEBUG [main] Runner:25 - Signin Page opened
+2021-11-23 10:34:00,310 DEBUG [main] Runner:31 - Entered the email
+2021-11-23 10:34:01,454 DEBUG [main] Runner:35 - Entered the Password
+2021-11-23 10:34:05,719 DEBUG [main] Runner:12 - clicked on SignIn
+2021-11-23 10:34:07,994 DEBUG [main] Runner:12 - Successfully Signed in
+2021-11-23 10:34:08,293 DEBUG [main] Runner:114 - Test 6 completed.
+2021-11-23 10:34:15,322 DEBUG [main] Runner:48 - driver is intialized.
+2021-11-23 10:34:35,880  INFO [main] Runner:42 - Price of Lamon File Organizer: Rs. 499
+2021-11-23 10:34:36,221  INFO [main] Runner:47 - Status: 
+2021-11-23 10:34:36,222 DEBUG [main] Runner:12 - Details Fetched Successfully.
+2021-11-23 10:34:36,670 DEBUG [main] Runner:163 - Test 7 completed.
+2021-11-23 10:34:42,582 DEBUG [main] Runner:48 - driver is intialized.
+2021-11-23 10:34:54,455 DEBUG [main] Runner:25 - Navigated to Contact Page
+2021-11-23 10:34:58,865 DEBUG [main] Runner:30 - Filled the details and clicked on send.
+2021-11-23 10:35:00,866 DEBUG [main] Runner:12 - Message sent successfully.
+2021-11-23 10:35:01,131 DEBUG [main] Runner:174 - Test 8 completed.
+2021-11-23 10:35:03,593 DEBUG [main] Runner:48 - driver is intialized.
+2021-11-23 10:35:15,329 DEBUG [main] Runner:27 - Finding your order.
+2021-11-23 10:35:17,436  INFO [main] Runner:30 - Status of your order: Sorry, that order was not found
+The email address entered must match the email address that was used when the order was placed. Please contact support if you continue to have trouble finding your order.
+2021-11-23 10:35:17,437 DEBUG [main] Runner:12 - Track order test success.
+2021-11-23 10:35:17,629 DEBUG [main] Runner:185 - Test 9 completed.
+2021-11-23 10:35:23,588 DEBUG [main] Runner:48 - driver is intialized.
+2021-11-23 10:35:34,047 DEBUG [main] Runner:23 - clicked on About us
+2021-11-23 10:35:37,069 DEBUG [main] Runner:12 - Page Title is verfied
+2021-11-23 10:35:37,446 DEBUG [main] Runner:196 - Test 10 completed.

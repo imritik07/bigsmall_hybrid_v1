@@ -1,0 +1,3 @@
+2021-11-19 09:39:11,287 DEBUG [main] Runner:48 - driver is intialized.
+2021-11-19 09:40:37,264 DEBUG [main] Runner:12 - Browser is Navigated to the Given Url
+2021-11-19 09:40:38,679 DEBUG [main] Runner:65 - Test 1 completed.
